@@ -1,0 +1,16 @@
+.random-color {
+  text-align: center;
+  height: 90vh;
+  width: 90vw;
+  margin: 0 auto;
+}
+
+.random-color .random-color-button {
+  margin: 10px;
+  padding: 10px;
+}
+
+.random-color .random-color-button.active {
+  font-weight: bold;
+  border: 2px solid #000000;
+}
