@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random Color Generator (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React random HEX or RGB color generator component.
 
 ## Available Scripts
 
